@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638333051364510110
+      ticks: 638333367170187309
     m_Hash: 2583795662
   m_LockFileStatus:
     m_FilePath: "C:/\u306F\u3058\u3081\u306B\u3053\u3053\u306B\u304A\u304F/\u3057\u3046\u304B\u3064/my_ikawidget/ikawidget0/Packages/packages-lock.json"
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638333051573728664
+      ticks: 638333367170207274
     m_Hash: 4259589839
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
@@ -136,6 +136,7 @@ m_PackageAssets:
         - 7.0.9
         - 7.0.10
         - 7.0.11
+        - 7.0.12
         - 8.0.0-pre.3
         - 8.0.0-pre.4
         - 8.0.0
@@ -150,11 +151,13 @@ m_PackageAssets:
         - 9.0.1
         - 9.0.2
         - 9.0.3
+        - 9.0.4
         - 10.0.0-pre.1
         - 10.0.0-pre.2
         - 10.0.0
         - 10.0.1
         - 10.0.2
+        - 10.0.3
         compatible:
         - 5.0.5
         - 5.0.6
@@ -387,6 +390,7 @@ m_PackageAssets:
         - 9.0.0-pre.1
         - 9.0.0-pre.2
         - 9.0.0
+        - 9.0.1
         compatible:
         - 4.0.2
         - 4.1.0
@@ -601,6 +605,7 @@ m_PackageAssets:
         - 10.0.0-pre.2
         - 10.0.0
         - 10.0.1
+        - 10.0.2
         compatible:
         - 5.1.2
         - 5.1.3
@@ -803,9 +808,12 @@ m_PackageAssets:
         - 2.0.3
         - 2.0.4
         - 2.0.5
+        - 2.0.7
         - 2.1.0-preview.3
         - 2.1.0-preview.5
         - 2.1.0-preview.6
+        - 2.1.0
+        - 2.2.0
         compatible:
         - 1.5.7
         - 1.6.0
@@ -932,6 +940,8 @@ m_PackageAssets:
         - 3.0.21
         - 3.0.22
         - 3.0.24
+        - 3.0.25
+        - 3.0.26
         compatible:
         - 1.0.2
         - 1.0.6
@@ -971,6 +981,8 @@ m_PackageAssets:
         - 3.0.21
         - 3.0.22
         - 3.0.24
+        - 3.0.25
+        - 3.0.26
         verified: 2.0.7
       dependencies:
       - name: com.unity.test-framework
@@ -1048,6 +1060,9 @@ m_PackageAssets:
         - 2.0.16
         - 2.0.17
         - 2.0.18
+        - 2.0.20
+        - 2.0.21
+        - 2.0.22
         compatible:
         - 1.0.2
         - 1.0.3
@@ -1070,7 +1085,10 @@ m_PackageAssets:
         - 2.0.16
         - 2.0.17
         - 2.0.18
-        verified: 2.0.18
+        - 2.0.20
+        - 2.0.21
+        - 2.0.22
+        verified: 2.0.22
       dependencies:
       - name: com.unity.test-framework
         version: 1.1.9
@@ -1239,6 +1257,7 @@ m_PackageAssets:
         - 1.3.5
         - 1.3.7
         - 1.3.8
+        - 1.3.9
         - 2.0.1-exp.1
         - 2.0.1-exp.2
         - 2.0.1-pre.12
@@ -1259,6 +1278,7 @@ m_PackageAssets:
         - 1.3.5
         - 1.3.7
         - 1.3.8
+        - 1.3.9
         - 2.0.1-exp.1
         - 2.0.1-exp.2
         - 2.0.1-pre.12
@@ -1426,6 +1446,7 @@ m_PackageAssets:
         - 3.2.0-pre.3
         - 3.2.0-pre.4
         - 3.2.0-pre.5
+        - 3.2.0-pre.6
         - 4.0.0-pre.1
         - 4.0.0-pre.2
         compatible:
@@ -1435,6 +1456,7 @@ m_PackageAssets:
         - 3.2.0-pre.3
         - 3.2.0-pre.4
         - 3.2.0-pre.5
+        - 3.2.0-pre.6
         verified: 3.0.6
       dependencies:
       - name: com.unity.ugui
@@ -1570,11 +1592,14 @@ m_PackageAssets:
         - 1.7.3
         - 1.7.4
         - 1.7.5
+        - 1.7.6
         - 1.8.0
         - 1.8.1
         - 1.8.2
         - 1.8.3
         - 1.8.4
+        - 1.8.5
+        - 1.8.6
         compatible:
         - 1.4.8
         - 1.5.0-pre.2
@@ -1608,11 +1633,14 @@ m_PackageAssets:
         - 1.7.3
         - 1.7.4
         - 1.7.5
+        - 1.7.6
         - 1.8.0
         - 1.8.1
         - 1.8.2
         - 1.8.3
         - 1.8.4
+        - 1.8.5
+        - 1.8.6
         verified: 1.4.8
       dependencies:
       - name: com.unity.modules.director

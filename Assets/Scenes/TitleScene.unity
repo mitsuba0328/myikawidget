@@ -287,8 +287,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 381980243}
-        m_TargetAssemblyTypeName: SalmonButton, Assembly-CSharp
-        m_MethodName: OnClick
+        m_TargetAssemblyTypeName: ButtonController, Assembly-CSharp
+        m_MethodName: OnClickSalmon
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -345,7 +345,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 381980238}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6e00a3c38fb3dde4d9a8ecfd7ee702a2, type: 3}
+  m_Script: {fileID: 11500000, guid: c9cd8d610a6ba474996314ec0892708d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &519420028
@@ -582,8 +582,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1036452185}
-        m_TargetAssemblyTypeName: RobyButton, Assembly-CSharp
-        m_MethodName: OnClick
+        m_TargetAssemblyTypeName: ButtonController, Assembly-CSharp
+        m_MethodName: OnClickRoby
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -640,7 +640,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1036452180}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ae471371b6205ab459d0f7b7e56e43fe, type: 3}
+  m_Script: {fileID: 11500000, guid: c9cd8d610a6ba474996314ec0892708d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1078747699

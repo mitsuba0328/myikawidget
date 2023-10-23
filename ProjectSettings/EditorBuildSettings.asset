@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Roby.unity
     guid: fb1e22a3039e8474f9e6b959746c212a
   - enabled: 1
-    path: Assets/Scenes/Salmon.unity
+    path: Assets/Scenes/SalmonTop.unity
     guid: 5f362dabc6567b14cbdcf551ef3277bd
+  - enabled: 1
+    path: Assets/Scenes/SalmonRegister.unity
+    guid: 1013d2e4017e94a4ead8af1d16af7180
   m_configObjects: {}
