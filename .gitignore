@@ -37,3 +37,6 @@ sysinfo.txt
 .vs
 Release/
 Debug/
+
+# only for me
+progress.txt
